@@ -64,3 +64,9 @@ body{
   margin-top: -50px;
   margin-right: 500px;
 }
+
+.section2, .section3, .section4{
+  display: flex;
+  justify-content: space-between;
+
+}
