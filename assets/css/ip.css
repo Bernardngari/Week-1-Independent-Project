@@ -1,0 +1,51 @@
+body{
+    font-family: 'Nunito', sans-serif;
+    padding: 0px;
+    }
+
+nav{
+  display: flex;
+  justify-content: space-between;
+}
+
+nav> .logo{
+  font-size: x-large;
+  margin-left: 20px;
+}
+
+.navlist{
+  display: flex;
+  justify-content: space-between;
+  margin-top: 40px; 
+}
+
+a{
+  text-decoration: none;
+  font-weight: bold;
+  color: black;
+}
+
+li{
+  padding-right: 30px;
+  list-style-type: none;
+}
+
+*.container{
+  display: flex;
+  justify-content: space-between;
+  line-height-step: 300px;
+  background-color: greenyellow;
+  margin-top: 10px;
+}
+
+.button{
+  background-color: #EC4067;
+  border-radius: 5px;
+  color: white;
+}
+/* Changes button color on hover*/
+
+.button:hover{
+  color: magenta;
+}
+
