@@ -2,19 +2,11 @@ li{
   margin: 20px;
   list-style-type: none;
 }
-ul{
-  display: flex;
-  justify-content: flex-end;
-  text-decoration: none;
-}
 .topbutton{
-background-color: brown;
+background-color: #EC4067;
 color: white;
 padding: 5px;
 }
-li a{
-  text-decoration: none;
-}
 .nav{
-  
+  display: flex;
 }
