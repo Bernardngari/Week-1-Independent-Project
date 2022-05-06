@@ -1,12 +1,31 @@
 li{
   margin: 20px;
   list-style-type: none;
+  display: inline;
 }
-.topbutton{
+nav > .navlinks > ul >li >.topbutton{
 background-color: #EC4067;
 color: white;
 padding: 5px;
 }
-.nav{
+
+nav{
   display: flex;
+  justify-content: space-between;
+}
+
+a{
+  text-decoration: none;
+}
+
+h3{
+  font-size: 30px
+}
+
+*{
+  padding: 0;
+  margin: 0;
+}
+nav > .navlinks{
+  margin-top: 8px;
 }
