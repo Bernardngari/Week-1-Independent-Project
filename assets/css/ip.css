@@ -136,3 +136,24 @@ li{
   width: 100px;
   height: 40px;
 }
+
+/*styling section5*/
+
+#Tmpic{
+  padding: 20px;
+  padding-top: 20px;
+}
+
+#picx{
+  width: 300px;
+}
+
+.spec{
+  color: #EC4067;
+}
+
+.AskQuiz{
+  color: white;
+  background-color: #EC4067;
+}
+
