@@ -41,6 +41,7 @@ li{
   border-radius: 5px;
   color: white;
 }
+}
 /* Changes button color on hover*/
 
 .button:hover{
@@ -61,7 +62,6 @@ li{
   width: 50%;
   margin-top: -10px;
   margin-right: 500px;
-  background-colr: #EC4067;
 }
 
 #xy, #yx{
@@ -72,6 +72,30 @@ li{
   margin-left: 40px;
 }
 
-#pt{
-  background-colr: #EC4067;
+/* Styling section 2*/
+
+#left2{
+  height: 400px;
+  margin-left: 70px;
+  margin-top: 50px;
 }
+
+#pt{
+  margin-left: 75px;
+}
+
+#Or{
+  background-color: aquamarie;
+  padding-right: 500px;
+  padding-left: 50px;
+  padding-top: 100px;
+}
+
+#buttony{
+  margin-top: 50px;
+  width: 100px;
+  height: 50px;
+}
+
+/*Styling section3*/
+
