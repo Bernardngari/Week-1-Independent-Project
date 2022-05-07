@@ -85,7 +85,6 @@ li{
 }
 
 #Or{
-  background-color: aquamarie;
   padding-right: 500px;
   padding-left: 50px;
   padding-top: 100px;
@@ -98,4 +97,25 @@ li{
 }
 
 /*Styling section3*/
+
+.boardmeet{
+  margin-left: 100px;
+  margin-top: 20px;
+  line-height: 50px;
+}
+
+#buttonx{
+  width: 50%;
+  height: 35px;
+  margin-top: 20px;
+}
+
+#ct3{
+  margin-top: 50px;
+}
+
+#image3{
+  height: 400px;
+  padding-right: 320px;
+}
 
