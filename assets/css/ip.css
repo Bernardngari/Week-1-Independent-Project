@@ -33,8 +33,6 @@ li{
 *.container{
   display: flex;
   justify-content: space-between;
-  line-height-step: 300px;
-  background-color: greenyellow;
   margin-top: 10px;
 }
 
@@ -49,3 +47,31 @@ li{
   color: magenta;
 }
 
+/*Styling the first section*/
+
+#leftContent{
+  margin-left: 80px;
+  height: 100%;
+  line-height: 40px;
+  width: 50%;
+}
+
+.image1 > img{
+  height: 100%;
+  width: 50%;
+  margin-top: -10px;
+  margin-right: 500px;
+  background-colr: #EC4067;
+}
+
+#xy, #yx{
+  margin-top: 100px;
+}
+
+#yx{
+  margin-left: 40px;
+}
+
+#pt{
+  background-colr: #EC4067;
+}
