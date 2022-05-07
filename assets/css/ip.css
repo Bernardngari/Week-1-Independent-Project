@@ -41,7 +41,6 @@ li{
   border-radius: 5px;
   color: white;
 }
-}
 /* Changes button color on hover*/
 
 .button:hover{
@@ -119,3 +118,21 @@ li{
   padding-right: 320px;
 }
 
+/*style section4*/
+
+#image4{
+  height: 400px;
+  margin-left: 80px;
+  padding-top: 50px;
+}
+
+.graduation{
+  padding-right: 500px;
+  padding-top: 50px;
+  line-height: 50px;
+}
+
+#buttonz{
+  width: 100px;
+  height: 40px;
+}
