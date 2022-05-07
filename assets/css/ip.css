@@ -177,3 +177,28 @@ li{
   width: 120px;
   height: 40px;
 }
+
+#paraz{
+  padding-left: 20px;
+}
+
+/*style section 7*/
+
+#sure{
+  padding-left: 100px;
+}
+a:hover{
+  color: magenta;
+}
+a{
+  color: #EC4067;
+}
+
+#buttLast{
+  height: 40px;
+  width: 90px;
+}
+
+#cont7{
+  font-size: x-large;
+}
