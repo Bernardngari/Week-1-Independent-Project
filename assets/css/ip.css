@@ -18,11 +18,16 @@ nav> .logo{
   justify-content: space-between;
   margin-top: 40px; 
 }
+#navcolor{
+  color: black;
+}
+#navcolor:hover{
+  color: magenta;
+}
 
 a{
   text-decoration: none;
   font-weight: bold;
-  color: black;
 }
 
 li{
@@ -165,11 +170,11 @@ li{
 
 #bike{
   height: 350px;
-  padding-right: 300px;
+  padding-right: 200px;
 }
 
 #coolbike{
-  padding-left: 100px;
+  padding-left: 190px;
   line-height: 40px;
 }
 
@@ -185,7 +190,7 @@ li{
 /*style section 7*/
 
 #sure{
-  padding-left: 100px;
+  padding-left: 190px;
 }
 a:hover{
   color: magenta;
@@ -201,4 +206,15 @@ a{
 
 #cont7{
   font-size: x-large;
+}
+
+/*styling for footer*/
+
+#footer{
+  height: 100px;
+  font-weight: bolder;
+  align-items: center;
+  padding-left: 40%;
+  padding-top: 40px;
+  font-size: large;
 }
